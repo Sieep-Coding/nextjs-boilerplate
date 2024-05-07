@@ -1,1 +1,1 @@
-## Next-js Boilerplate with Redux Authentication
+## Next-js Boilerplate with Redux Toolkit
