@@ -36,6 +36,4 @@ npm run dev
 ![Screenshot](Screenshot/home.png)
 ![Screenshot](Screenshot/signup.png)
 ![Screenshot](Screenshot/sigin.png)
-![Screenshot](Screenshot/userProfile.png)
-![Screenshot](Screenshot/aboutpage.png)
 
